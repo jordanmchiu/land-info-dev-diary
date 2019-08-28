@@ -3619,6 +3619,12 @@ GCDocs is the new centralized cloud store for all government files, and everyone
 
 We added a field to Drawings called `GcdocNumber`, to match the same field in SurveyFiles.  Now, when we rendered the Drawings table, we would check to see whether a Drawing had a GCDocs Number.  If it did, then we would add a hyperlink on the drawing's file name to link to that given GCDocs node.  If not, we would link the file name to a predefined path on R: drive.
 
+# In the end...
+
+By the end of my term, we had a completed project that was ready to be launched for the client.  There was still some testing to be done by the client and by us developers, but the main project had been set up and deployed.  We had used up about 80% of our allotted budget, meaning that we had plenty of time left for user testing, support, and additional refinements.
+
+All in all, the project was a success!
+
 # Important things that may not all make sense (to this developer)
 
 * MarineFiles do not need to be edited or created, just viewed as a table.  They are an antiquated file type that are no longer really used by the client.
